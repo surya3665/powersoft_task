@@ -1,0 +1,37 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F4F7FB"/>
+  <rect x="28" y="24" width="230" height="672" rx="28" fill="#FCFDFF"/>
+  <rect x="286" y="24" width="966" height="88" rx="28" fill="white"/>
+  <text x="324" y="64" fill="#102A43" font-family="Arial, sans-serif" font-size="28" font-weight="700">Projects</text>
+  <text x="324" y="90" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Project list, CRUD actions, assigned team visibility</text>
+  <rect x="1096" y="44" width="124" height="44" rx="14" fill="#0F766E"/>
+  <text x="1158" y="71" fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">New Project</text>
+  <rect x="286" y="136" width="310" height="244" rx="28" fill="white"/>
+  <rect x="620" y="136" width="310" height="244" rx="28" fill="white"/>
+  <rect x="954" y="136" width="298" height="244" rx="28" fill="white"/>
+  <rect x="286" y="404" width="310" height="244" rx="28" fill="white"/>
+  <rect x="620" y="404" width="310" height="244" rx="28" fill="#EEF7F6" stroke="#D8EEEA"/>
+  <rect x="954" y="404" width="298" height="244" rx="28" fill="white"/>
+  <text x="314" y="186" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">🛒 E-Commerce Platform</text>
+  <text x="314" y="222" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Building a modern e-commerce platform with React and Node.js</text>
+  <text x="314" y="280" fill="#2563EB" font-family="Arial, sans-serif" font-size="14" font-weight="700">4 members</text>
+  <text x="314" y="304" fill="#0F766E" font-family="Arial, sans-serif" font-size="14" font-weight="700">4 tasks</text>
+  <circle cx="334" cy="340" r="16" fill="#DCE9F8"/>
+  <circle cx="358" cy="340" r="16" fill="#D7EEDF"/>
+  <circle cx="382" cy="340" r="16" fill="#F9E7C9"/>
+  <circle cx="406" cy="340" r="16" fill="#F2D8D8"/>
+  <text x="648" y="186" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">🏦 Mobile Banking App</text>
+  <text x="648" y="222" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">A secure banking app with real-time transactions</text>
+  <text x="648" y="280" fill="#2563EB" font-family="Arial, sans-serif" font-size="14" font-weight="700">4 members</text>
+  <text x="648" y="304" fill="#0F766E" font-family="Arial, sans-serif" font-size="14" font-weight="700">3 tasks</text>
+  <text x="982" y="186" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">👥 HR Management</text>
+  <text x="982" y="222" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Employee tracking and payroll management workspace</text>
+  <text x="982" y="280" fill="#2563EB" font-family="Arial, sans-serif" font-size="14" font-weight="700">4 members</text>
+  <text x="982" y="304" fill="#0F766E" font-family="Arial, sans-serif" font-size="14" font-weight="700">3 tasks</text>
+  <text x="314" y="454" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">Reusable modal forms</text>
+  <text x="314" y="490" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Shared create/edit flows for projects, employees, and tasks</text>
+  <text x="648" y="454" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">Assignment validation</text>
+  <text x="648" y="490" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Employees with active tasks remain locked to preserve data integrity</text>
+  <text x="982" y="454" fill="#102A43" font-family="Arial, sans-serif" font-size="24" font-weight="700">Responsive cards</text>
+  <text x="982" y="490" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Bootstrap layout adapted for mobile, tablet, and desktop screens</text>
+</svg>

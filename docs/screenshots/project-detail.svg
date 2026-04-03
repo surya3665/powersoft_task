@@ -1,0 +1,32 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#F4F7FB"/>
+  <rect x="28" y="24" width="230" height="672" rx="28" fill="#FCFDFF"/>
+  <rect x="286" y="24" width="966" height="88" rx="28" fill="white"/>
+  <text x="324" y="64" fill="#102A43" font-family="Arial, sans-serif" font-size="28" font-weight="700">Project Details</text>
+  <text x="324" y="90" fill="#6B7A90" font-family="Arial, sans-serif" font-size="15">Team overview, dates, and project-scoped task management</text>
+  <rect x="286" y="136" width="966" height="214" rx="32" fill="white"/>
+  <text x="326" y="180" fill="#6B7A90" font-family="Arial, sans-serif" font-size="14">← Back to Projects</text>
+  <text x="326" y="230" fill="#102A43" font-family="Arial, sans-serif" font-size="32" font-weight="700">🛒 E-Commerce Platform</text>
+  <text x="326" y="268" fill="#6B7A90" font-family="Arial, sans-serif" font-size="16">Building a modern e-commerce platform with React and Node.js</text>
+  <text x="326" y="316" fill="#102A43" font-family="Arial, sans-serif" font-size="15" font-weight="700">Jan 15, 2024 - Jun 30, 2024</text>
+  <text x="516" y="316" fill="#102A43" font-family="Arial, sans-serif" font-size="15" font-weight="700">4 members</text>
+  <circle cx="344" cy="332" r="16" fill="#DCE9F8"/>
+  <circle cx="368" cy="332" r="16" fill="#D7EEDF"/>
+  <circle cx="392" cy="332" r="16" fill="#F9E7C9"/>
+  <circle cx="416" cy="332" r="16" fill="#F2D8D8"/>
+  <rect x="1086" y="174" width="134" height="46" rx="16" fill="#0F766E"/>
+  <text x="1153" y="202" fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">Add Task</text>
+  <text x="286" y="388" fill="#102A43" font-family="Arial, sans-serif" font-size="26" font-weight="700">Tasks (4)</text>
+  <rect x="286" y="424" width="966" height="92" rx="24" fill="white"/>
+  <rect x="306" y="440" width="92" height="60" rx="16" fill="#DCE9F8"/>
+  <text x="420" y="460" fill="#102A43" font-family="Arial, sans-serif" font-size="18" font-weight="700">Design Homepage</text>
+  <text x="420" y="486" fill="#6B7A90" font-family="Arial, sans-serif" font-size="14">Cristofer Siphron • ETA: Feb 15, 2024</text>
+  <rect x="1108" y="448" width="92" height="26" rx="13" fill="#DCF3E2"/>
+  <text x="1154" y="466" fill="#15803D" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">Completed</text>
+  <rect x="286" y="532" width="966" height="92" rx="24" fill="white"/>
+  <rect x="306" y="548" width="92" height="60" rx="16" fill="#D5EAF4"/>
+  <text x="420" y="568" fill="#102A43" font-family="Arial, sans-serif" font-size="18" font-weight="700">Setup Auth System</text>
+  <text x="420" y="594" fill="#6B7A90" font-family="Arial, sans-serif" font-size="14">Marilyn Ekstrom • ETA: Feb 28, 2024</text>
+  <rect x="1092" y="556" width="124" height="26" rx="13" fill="#DDF0F8"/>
+  <text x="1154" y="574" fill="#0284C7" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">In Progress</text>
+</svg>

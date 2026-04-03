@@ -94,12 +94,13 @@ const TaskFormModal = ({
   const selectedProjectId = watch('projectId');
   const selectedEmployeeId = watch('assignedEmployee');
   const selectedProject = projects.find((project) => project.id === selectedProjectId);
-  const availableEmployees = employees.filter(
-    (employee) => selectedProject?.assignedEmployees.includes(employee.id),
+  const availableEmployees = useMemo(
+    () => employees.filter((employee) => selectedProject?.assignedEmployees.includes(employee.id)),
+    [employees, selectedProject],
   );
 
   useEffect(() => {
-    if (!availableEmployees.some((employee) => employee.id === selectedEmployeeId)) {
+    if (selectedEmployeeId && !availableEmployees.some((employee) => employee.id === selectedEmployeeId)) {
       setValue('assignedEmployee', '', { shouldValidate: true });
     }
   }, [availableEmployees, selectedEmployeeId, setValue]);
